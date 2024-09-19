@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="400px" width="400px" align="right">
 
-📈 Estatísticas do GitHub
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=suellenaraujo&show_icons=true&theme=radical" alt="Estatísticas do GitHub" /> </p>
 
 <h2 align="left">👩‍💻 Sobre Mim</h2>
