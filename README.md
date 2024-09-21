@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=suellenaraujo&show_icons=true&theme=radical" alt="Estatísticas do GitHub" /> </p>
 
 <h2 align="left">👩‍💻 Sobre Mim</h2>
 <p align="left">Olá! Eu sou <strong>Suellen</strong>, bacharelanda em <strong>Sistemas de Informação</strong> pelo <strong>IFBA</strong>. Estou focada no desenvolvimento <strong>BackEnd</strong> e tenho um grande interesse em me especializar em <strong>Banco de Dados</strong>, <strong>Cyber Segurança</strong> e <strong>Gerência de TI</strong>.</p>
