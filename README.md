@@ -4,11 +4,6 @@
 <h2 align="left">👩‍💻 Sobre Mim</h2>
 <p align="left">Olá! Eu sou <strong>Suellen</strong>, bacharelanda em <strong>Sistemas de Informação</strong> pelo <strong>IFBA</strong>. Estou focada no desenvolvimento <strong>BackEnd</strong> e tenho um grande interesse em me especializar em <strong>Banco de Dados</strong>, <strong>Cyber Segurança</strong> e <strong>Gerência de TI</strong>.</p>
 
-<h2 align="left">🌟 Hobbies & Interesses </h2>
-<p align="left">🚴‍♀️ Andar de bicicleta </p>
-<p align="left"> 📚 Ler livros sobre tecnologia </p>
-<p align="left"> 🎮 Jogar videogames </p>
-
 ---
 
 <h2 align="left">🚀 Minhas Tecnologias</h2>
