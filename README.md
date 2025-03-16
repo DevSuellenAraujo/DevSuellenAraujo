@@ -29,3 +29,5 @@
 
 📫 Entre em Contato
 <p align="left"> <a href="https://www.linkedin.com/in/suellen-ara%C3%BAjo/" title="LinkedIn"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/iamsuaraujo/" title="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:suellenaraujocosta@gmail.com" title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+
+![snake](https://github.com/user-attachments/assets/9414c680-8e63-44f8-be44-596704454deb)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
